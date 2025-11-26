@@ -1,3 +1,5 @@
+// PARA RODAR LOCALMENTE: npx nodemon api/index.js
+
 const express = require('express');
 const cors = require('cors');
 const mysql = require('mysql2');
