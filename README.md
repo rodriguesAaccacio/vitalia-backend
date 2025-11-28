@@ -45,7 +45,7 @@ VITALIA-BACKEND/
 3.  **Inicie o servidor:**
 
     ```bash
-    node api/index.js
+    npx nodemon api/index.js
     ```
 
     *O servidor rodará na porta `3333`.*
